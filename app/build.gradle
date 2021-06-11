@@ -101,6 +101,10 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-extensions:$lifecycle_version"
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
 
+    // WorkManager dependency
+    def work_version = "1.0.1"
+    implementation "android.arch.work:work-runtime-ktx:$work_version"
+
     // logging
     implementation 'com.jakewharton.timber:timber:4.7.1'
 
