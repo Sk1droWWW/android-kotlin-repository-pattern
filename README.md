@@ -1,10 +1,4 @@
-DevByte - Starter Code
-======================
-
-Use as starter code for the Repository codelab.
-
-Introduction
-------------
+# DevByte
 
 DevByteViewer app displays a list of DevByte videos. DevByte videos are short
 videos made by the Google Android developer relations team to introduce new
@@ -15,27 +9,7 @@ displays it on the screen. It uses a ViewModel and LiveData to hold the data and
 update the UI. Since the video list is big, results are displayed in a
 RecyclerView.
 
-
-Pre-requisites
---------------
-
-You need to know:
-- How to open, build, and run Android apps with Android Studio.
-- How to use the Navigation Architecture Component
-- Passing the data between navigation destinations.
-- Read the logs using the Logcat.
-- Android architecture components: ViewModel and LiveData.
-- How to use Retrofit network library.
-
-
-Getting Started
----------------
-
-1. Download and run the app.
-2. You need Android Studio 3.2 or higher to build this project.
-
-License
--------
+# License
 
 Copyright 2019 Google, Inc.
 
